@@ -1,0 +1,25 @@
+* {
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+article {
+    max-width: 40em;
+    margin:0 auto 8em;
+}
+
+ img:nth-of-type(3) {
+    border-radius: 50%;
+    float: right;
+}
+
+img:nth-of-type(2) {
+    border-radius: 50%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img:nth-of-type(1) {
+    border-radius: 50%;
+}
